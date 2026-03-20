@@ -1,0 +1,44 @@
+
+    ABOMINABLE ASTEROIDS - README
+    -------------------------------
+    Created by Fractal Fungus Games
+    FractalFungusGames@proton.me
+    March 2026
+    -------------------------------
+
+DESCRIPTION
+***********
+Abominable Asteroids is a 2D pygame clone of the classic Asteroids video game.
+
+HOW TO PLAY
+***********
+Shoot and destroy all the asteroids to win. Catch supplies to get more ammunition or fuel.
+Adjust the difficulty by changing the number of asteroids or supply drop frequency.
+Give yourself unlimited fuel or ammunition for an easier time.
+
+Movement - Arrow Keys or WASD
+Select   - Enter
+Shoot    - Space
+Pause    - Escape
+
+With a joystick use the D-Pad, Start, and bottom face button.
+
+INSTALLATION
+************
+Install the game directly from Steam or Itch.io or download a build from the latest Releases page.
+Alternatively, install pygame and run the python script with 'python src/main.py' or './src/main.py'.
+
+CREDITS
+*******
+Programming and Art by Matt
+Music by Jay
+
+LICENSES
+********
+See all full license texts under the included licenses directory.
+
+Code - GNU GPLv3.0
+Font - Ubuntu Font License v1.0
+
+Assets - Creative Commons Attribution-NonCommercial 4.0 International
+https://creativecommons.org/licenses/by-nc/4.0/
