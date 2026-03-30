@@ -1,10 +1,9 @@
 
-    ABOMINABLE ASTEROIDS - README
-    -------------------------------
-    Created by Fractal Fungus Games
+    ABOMINABLE ASTEROIDS
+    Fractal Fungus Games
     FractalFungusGames@proton.me
+    ----------------------------
     March 2026
-    -------------------------------
 
 DESCRIPTION
 ***********
@@ -25,8 +24,23 @@ With a joystick use the D-Pad, Start, and bottom face button.
 
 INSTALLATION
 ************
-Install the game directly from Steam or Itch.io or download a build from the latest Releases page.
-Alternatively, install pygame and run the python script with 'python src/main.py' or './src/main.py'.
+Option 1) Install on Steam
+
+Option 2) Download an executable from itch.io.
+          https://fractalfungusgames.itch.io/abominable-asteroids
+
+Windows: extract and run the exe
+
+Linux: navigate to your Downloads directory in a terminal and run the following
+
+unzip abominable_asteroids_linux_x64.zip
+cd abominable_asteroids
+chmod +x abominable_asteroids
+./abominable_asteroids
+
+MacOS: 1) extract and drag 'Abominable_Asteroids.app' to Applications
+       2) run it
+       3) if prompted: Open 'System Settings' > Privacy & Security > click 'Open Anyway'
 
 CREDITS
 *******
